@@ -9,11 +9,11 @@ window.title("First Board") #set the title of the window
 window.bgcolor("skyblue") #set the background color of the window
 
 #step 1: create a turtle
-turta = turtle.Turtle() #create a turtle
-turta.shape("turtle") #set the shape of the turtle
+turta = turtle.Turtle() 
+turta.shape("turtle") 
 penfill_color(turta,"lightgrey","white")
-turta.pensize(5) #set the pensize of the turtle
-turta.speed(50) #set the speed of the turtle
+turta.pensize(5) 
+turta.speed(50) 
 
 #step 2: move the turtle
 
